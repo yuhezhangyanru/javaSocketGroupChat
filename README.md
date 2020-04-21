@@ -1,0 +1,2 @@
+# javaSocketGroupChat
+javaSocketGroupChat，是java socket 多客户端群聊的demo，连接中的多个客户任意一个人发送消息，服务器收到后会转发给所有客户端以便实现群聊的功效
